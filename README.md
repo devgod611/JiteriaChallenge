@@ -55,9 +55,9 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 ## Screenshot
 
 <div align="center">
-  <img width=700 src ="https://github.com/ittechman101/JiteriaChallenge_React/blob/c5a68e2f301a839deae189f1d2fafce71cdfc111/screens/Capture1.PNG" />
+  <img width=700 src ="https://github.com/devgod611/JiteriaChallenge/blob/main/screens/Capture1.PNG" />
 </div>
 
 <div align="center">
-  <img width=700 src ="https://github.com/ittechman101/JiteriaChallenge_React/blob/c5a68e2f301a839deae189f1d2fafce71cdfc111/screens/Capture2.PNG" />
+  <img width=700 src ="https://github.com/devgod611/JiteriaChallenge/blob/main/screens/Capture2.PNG" />
 </div>
