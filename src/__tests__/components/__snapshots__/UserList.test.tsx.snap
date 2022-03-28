@@ -1,0 +1,39 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`UserList rendering renders the component 1`] = `
+<List
+  bordered={true}
+  data-id="list"
+  dataSource={
+    Array [
+      Object {
+        "email": "Sincere@april.biz",
+        "id": 1,
+        "name": "Leanne Graham",
+        "phone": "1-770-736-8031 x56442",
+        "username": "Bret",
+        "website": "hildegard.org",
+      },
+    ]
+  }
+  grid={
+    Object {
+      "gutter": 16,
+      "lg": 3,
+      "md": 2,
+      "sm": 2,
+      "xl": 4,
+      "xs": 1,
+      "xxl": 5,
+    }
+  }
+  renderItem={[Function]}
+  style={
+    Object {
+      "marginTop": 20,
+      "overflowX": "hidden",
+      "overflowY": "auto",
+    }
+  }
+/>
+`;

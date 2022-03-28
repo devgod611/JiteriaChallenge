@@ -1,0 +1,18 @@
+@import '~antd/dist/antd.css';
+
+.App {
+  height: 100vh;
+}
+
+.card_text {
+  display: block;
+  margin-top: 5px;
+}
+
+.meta {
+  margin-bottom: 10px;
+}
+
+.avatar {
+  height: 180px;
+}

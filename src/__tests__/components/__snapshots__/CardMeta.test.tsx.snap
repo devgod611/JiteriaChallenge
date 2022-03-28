@@ -1,0 +1,31 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CardMeta rendering renders the component 1`] = `
+<Fragment>
+  <Meta
+    className="meta"
+    title="Leanne Graham"
+  />
+  <Text
+    className="card_text"
+  >
+    <ForwardRef(MailOutlined) />
+       
+    Sincere@april.biz
+  </Text>
+  <Text
+    className="card_text"
+  >
+    <ForwardRef(PhoneOutlined) />
+       
+    1-770-736-8031 x56442
+  </Text>
+  <Text
+    className="card_text"
+  >
+    <ForwardRef(GlobalOutlined) />
+       
+    hildegard.org
+  </Text>
+</Fragment>
+`;
